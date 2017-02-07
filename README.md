@@ -1,44 +1,3 @@
-Skip to content
-This repository
-Search
-Pull requests
-Issues
-Gist
- @Grimmer20
- Watch 3
-  Star 0
- Fork 185 chi-coyotes-2016/lil-twitter-challenge Private
-forked from devbootcamp-curriculum/lil-twitter-challenge
- Code  Pull requests 0  Projects 0  Wiki  Pulse  Graphs
-No description, website, or topics provided.
- 93 commits
- 11 branches
- 0 releases
- 13 contributors
- Ruby 69.0%	 HTML 22.7%	 CSS 6.5%	 JavaScript 1.8%
-Ruby	HTML	CSS	JavaScript
-Clone or download  Create new file Upload files Find file Branch: master New pull request
- Pull request   Compare This branch is even with master.
-Latest commit 1869a69  on Aug 12, 2016 @toreyhickman toreyhickman committed with mattbaker Merge pull request #20  …
-app	Use where .first_or_create	10 months ago
-bin	Adding rails 4.x bin dir	2 years ago
-config	Adding secrets file for dev/test	2 years ago
-db	New db/schema hash key syntax	2 years ago
-doc	Map out views & drop testing requirements	2 years ago
-lib	creates rails v3.2.19 skeleton	3 years ago
-log	creates rails v3.2.19 skeleton	3 years ago
-public	integrates HTML template into application	3 years ago
-script	creates rails v3.2.19 skeleton	3 years ago
-spec	TweetCSpec: rm test when posting empty Tweet	2 years ago
-vendor	creates rails v3.2.19 skeleton	3 years ago
-.gitignore	creates rails v3.2.19 skeleton	3 years ago
-.rspec	generates rspec intall	3 years ago
-Gemfile	Peg rails version ~> 4.2.x	2 years ago
-Gemfile.lock	Peg rails version ~> 4.2.x	2 years ago
-README.md	Attempt to put into writing what we did with the nighthawks	6 months ago
-Rakefile	creates rails v3.2.19 skeleton	3 years ago
-config.ru	creates rails v3.2.19 skeleton	3 years ago
- README.md
 Lil' Twitter
 
 Learning Competencies
@@ -224,6 +183,3 @@ GET /hashtags/popular returns the names of the 10 most popular hashtags. The out
       "name":"ut"
    }
 ]
-Contact GitHub API Training Shop Blog About
-© 2017 GitHub, Inc. Terms Privacy Security Status Help
-
